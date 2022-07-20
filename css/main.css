@@ -238,6 +238,22 @@ nav {
 .box__horarios__big {
   padding: 5%; }
 
+.error404 {
+  background-color: #ffdaaf; }
+  .error404 h1 {
+    text-align: center;
+    justify-content: center;
+    margin-top: 5%;
+    font-weight: bolder;
+    font-size: 3em; }
+  .error404 h3 {
+    text-align: center;
+    justify-content: center; }
+  .error404 img {
+    display: block;
+    margin: 0px auto;
+    margin-top: 5%; }
+
 @media (min-width: 768px) {
   .table__container {
     font-size: 1em; }
